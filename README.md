@@ -7,7 +7,7 @@
 
 **Baseline Command Center** is a VS Code extension that provides instant feedback on web platform feature compatibility. Know which CSS properties and JavaScript APIs are **Baseline-ready** as you code, helping you build modern, interoperable web experiences with confidence.
 
-![Baseline Command Center Demo](https://youtu.be/GCbrW0U8pRw)
+![Baseline Command Center Demo](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/827/576/datas/gallery.jpg)
 
 ---
 
