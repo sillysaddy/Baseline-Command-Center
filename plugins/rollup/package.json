@@ -1,0 +1,30 @@
+{
+  "name": "@baseline/rollup-plugin",
+  "version": "0.1.0",
+  "description": "Rollup plugin for Baseline compatibility checking",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "keywords": [
+    "rollup",
+    "plugin",
+    "baseline",
+    "compatibility"
+  ],
+  "author": "SillySaddy",
+  "license": "MIT",
+  "peerDependencies": {
+    "rollup": "^3.0.0 || ^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "typescript": "^5.1.3",
+    "rollup": "^4.0.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}

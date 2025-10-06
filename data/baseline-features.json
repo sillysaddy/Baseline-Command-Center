@@ -1,0 +1,1192 @@
+{
+  "lastUpdate": "2025-10-06T18:13:55.123Z",
+  "css": {
+    "display": {
+      "id": "css-display",
+      "name": "CSS Display",
+      "status": "baseline",
+      "since": "2015-07",
+      "description": "The display CSS property sets whether an element is treated as a block or inline box.",
+      "properties": [
+        "display"
+      ],
+      "browserSupport": {
+        "chrome": "1",
+        "edge": "12",
+        "firefox": "1",
+        "safari": "1"
+      }
+    },
+    "gap": {
+      "id": "css-gap",
+      "name": "CSS Gap Property",
+      "status": "baseline",
+      "since": "2021-09",
+      "description": "The gap property defines spacing between rows and columns in flexbox and grid layouts.",
+      "properties": [
+        "gap",
+        "row-gap",
+        "column-gap"
+      ],
+      "browserSupport": {
+        "chrome": "84",
+        "edge": "84",
+        "firefox": "63",
+        "safari": "14.1"
+      }
+    },
+    "row-gap": {
+      "id": "css-gap",
+      "name": "CSS Gap Property",
+      "status": "baseline",
+      "since": "2021-09",
+      "description": "The gap property defines spacing between rows and columns in flexbox and grid layouts.",
+      "properties": [
+        "gap",
+        "row-gap",
+        "column-gap"
+      ],
+      "browserSupport": {
+        "chrome": "84",
+        "edge": "84",
+        "firefox": "63",
+        "safari": "14.1"
+      }
+    },
+    "column-gap": {
+      "id": "css-gap",
+      "name": "CSS Gap Property",
+      "status": "baseline",
+      "since": "2021-09",
+      "description": "The gap property defines spacing between rows and columns in flexbox and grid layouts.",
+      "properties": [
+        "gap",
+        "row-gap",
+        "column-gap"
+      ],
+      "browserSupport": {
+        "chrome": "84",
+        "edge": "84",
+        "firefox": "63",
+        "safari": "14.1"
+      }
+    },
+    "flex": {
+      "id": "css-flexbox",
+      "name": "CSS Flexible Box Layout",
+      "status": "baseline",
+      "since": "2017-03",
+      "description": "Flexbox layout provides an efficient way to align and distribute space among items.",
+      "properties": [
+        "flex",
+        "flex-direction",
+        "flex-wrap",
+        "justify-content",
+        "align-items",
+        "align-content",
+        "flex-grow",
+        "flex-shrink",
+        "flex-basis"
+      ],
+      "browserSupport": {
+        "chrome": "29",
+        "edge": "12",
+        "firefox": "20",
+        "safari": "9"
+      }
+    },
+    "flex-direction": {
+      "id": "css-flexbox",
+      "name": "CSS Flexible Box Layout",
+      "status": "baseline",
+      "since": "2017-03",
+      "description": "Flexbox layout provides an efficient way to align and distribute space among items.",
+      "properties": [
+        "flex",
+        "flex-direction",
+        "flex-wrap",
+        "justify-content",
+        "align-items",
+        "align-content",
+        "flex-grow",
+        "flex-shrink",
+        "flex-basis"
+      ],
+      "browserSupport": {
+        "chrome": "29",
+        "edge": "12",
+        "firefox": "20",
+        "safari": "9"
+      }
+    },
+    "flex-wrap": {
+      "id": "css-flexbox",
+      "name": "CSS Flexible Box Layout",
+      "status": "baseline",
+      "since": "2017-03",
+      "description": "Flexbox layout provides an efficient way to align and distribute space among items.",
+      "properties": [
+        "flex",
+        "flex-direction",
+        "flex-wrap",
+        "justify-content",
+        "align-items",
+        "align-content",
+        "flex-grow",
+        "flex-shrink",
+        "flex-basis"
+      ],
+      "browserSupport": {
+        "chrome": "29",
+        "edge": "12",
+        "firefox": "20",
+        "safari": "9"
+      }
+    },
+    "justify-content": {
+      "id": "css-flexbox",
+      "name": "CSS Flexible Box Layout",
+      "status": "baseline",
+      "since": "2017-03",
+      "description": "Flexbox layout provides an efficient way to align and distribute space among items.",
+      "properties": [
+        "flex",
+        "flex-direction",
+        "flex-wrap",
+        "justify-content",
+        "align-items",
+        "align-content",
+        "flex-grow",
+        "flex-shrink",
+        "flex-basis"
+      ],
+      "browserSupport": {
+        "chrome": "29",
+        "edge": "12",
+        "firefox": "20",
+        "safari": "9"
+      }
+    },
+    "align-items": {
+      "id": "css-flexbox",
+      "name": "CSS Flexible Box Layout",
+      "status": "baseline",
+      "since": "2017-03",
+      "description": "Flexbox layout provides an efficient way to align and distribute space among items.",
+      "properties": [
+        "flex",
+        "flex-direction",
+        "flex-wrap",
+        "justify-content",
+        "align-items",
+        "align-content",
+        "flex-grow",
+        "flex-shrink",
+        "flex-basis"
+      ],
+      "browserSupport": {
+        "chrome": "29",
+        "edge": "12",
+        "firefox": "20",
+        "safari": "9"
+      }
+    },
+    "align-content": {
+      "id": "css-flexbox",
+      "name": "CSS Flexible Box Layout",
+      "status": "baseline",
+      "since": "2017-03",
+      "description": "Flexbox layout provides an efficient way to align and distribute space among items.",
+      "properties": [
+        "flex",
+        "flex-direction",
+        "flex-wrap",
+        "justify-content",
+        "align-items",
+        "align-content",
+        "flex-grow",
+        "flex-shrink",
+        "flex-basis"
+      ],
+      "browserSupport": {
+        "chrome": "29",
+        "edge": "12",
+        "firefox": "20",
+        "safari": "9"
+      }
+    },
+    "flex-grow": {
+      "id": "css-flexbox",
+      "name": "CSS Flexible Box Layout",
+      "status": "baseline",
+      "since": "2017-03",
+      "description": "Flexbox layout provides an efficient way to align and distribute space among items.",
+      "properties": [
+        "flex",
+        "flex-direction",
+        "flex-wrap",
+        "justify-content",
+        "align-items",
+        "align-content",
+        "flex-grow",
+        "flex-shrink",
+        "flex-basis"
+      ],
+      "browserSupport": {
+        "chrome": "29",
+        "edge": "12",
+        "firefox": "20",
+        "safari": "9"
+      }
+    },
+    "flex-shrink": {
+      "id": "css-flexbox",
+      "name": "CSS Flexible Box Layout",
+      "status": "baseline",
+      "since": "2017-03",
+      "description": "Flexbox layout provides an efficient way to align and distribute space among items.",
+      "properties": [
+        "flex",
+        "flex-direction",
+        "flex-wrap",
+        "justify-content",
+        "align-items",
+        "align-content",
+        "flex-grow",
+        "flex-shrink",
+        "flex-basis"
+      ],
+      "browserSupport": {
+        "chrome": "29",
+        "edge": "12",
+        "firefox": "20",
+        "safari": "9"
+      }
+    },
+    "flex-basis": {
+      "id": "css-flexbox",
+      "name": "CSS Flexible Box Layout",
+      "status": "baseline",
+      "since": "2017-03",
+      "description": "Flexbox layout provides an efficient way to align and distribute space among items.",
+      "properties": [
+        "flex",
+        "flex-direction",
+        "flex-wrap",
+        "justify-content",
+        "align-items",
+        "align-content",
+        "flex-grow",
+        "flex-shrink",
+        "flex-basis"
+      ],
+      "browserSupport": {
+        "chrome": "29",
+        "edge": "12",
+        "firefox": "20",
+        "safari": "9"
+      }
+    },
+    "grid": {
+      "id": "css-grid",
+      "name": "CSS Grid Layout",
+      "status": "baseline",
+      "since": "2020-01",
+      "description": "CSS Grid Layout excels at dividing a page into major regions.",
+      "properties": [
+        "grid",
+        "grid-template-columns",
+        "grid-template-rows",
+        "grid-area",
+        "grid-column",
+        "grid-row"
+      ],
+      "browserSupport": {
+        "chrome": "57",
+        "edge": "16",
+        "firefox": "52",
+        "safari": "10.1"
+      }
+    },
+    "grid-template-columns": {
+      "id": "css-grid",
+      "name": "CSS Grid Layout",
+      "status": "baseline",
+      "since": "2020-01",
+      "description": "CSS Grid Layout excels at dividing a page into major regions.",
+      "properties": [
+        "grid",
+        "grid-template-columns",
+        "grid-template-rows",
+        "grid-area",
+        "grid-column",
+        "grid-row"
+      ],
+      "browserSupport": {
+        "chrome": "57",
+        "edge": "16",
+        "firefox": "52",
+        "safari": "10.1"
+      }
+    },
+    "grid-template-rows": {
+      "id": "css-grid",
+      "name": "CSS Grid Layout",
+      "status": "baseline",
+      "since": "2020-01",
+      "description": "CSS Grid Layout excels at dividing a page into major regions.",
+      "properties": [
+        "grid",
+        "grid-template-columns",
+        "grid-template-rows",
+        "grid-area",
+        "grid-column",
+        "grid-row"
+      ],
+      "browserSupport": {
+        "chrome": "57",
+        "edge": "16",
+        "firefox": "52",
+        "safari": "10.1"
+      }
+    },
+    "grid-area": {
+      "id": "css-grid",
+      "name": "CSS Grid Layout",
+      "status": "baseline",
+      "since": "2020-01",
+      "description": "CSS Grid Layout excels at dividing a page into major regions.",
+      "properties": [
+        "grid",
+        "grid-template-columns",
+        "grid-template-rows",
+        "grid-area",
+        "grid-column",
+        "grid-row"
+      ],
+      "browserSupport": {
+        "chrome": "57",
+        "edge": "16",
+        "firefox": "52",
+        "safari": "10.1"
+      }
+    },
+    "grid-column": {
+      "id": "css-grid",
+      "name": "CSS Grid Layout",
+      "status": "baseline",
+      "since": "2020-01",
+      "description": "CSS Grid Layout excels at dividing a page into major regions.",
+      "properties": [
+        "grid",
+        "grid-template-columns",
+        "grid-template-rows",
+        "grid-area",
+        "grid-column",
+        "grid-row"
+      ],
+      "browserSupport": {
+        "chrome": "57",
+        "edge": "16",
+        "firefox": "52",
+        "safari": "10.1"
+      }
+    },
+    "grid-row": {
+      "id": "css-grid",
+      "name": "CSS Grid Layout",
+      "status": "baseline",
+      "since": "2020-01",
+      "description": "CSS Grid Layout excels at dividing a page into major regions.",
+      "properties": [
+        "grid",
+        "grid-template-columns",
+        "grid-template-rows",
+        "grid-area",
+        "grid-column",
+        "grid-row"
+      ],
+      "browserSupport": {
+        "chrome": "57",
+        "edge": "16",
+        "firefox": "52",
+        "safari": "10.1"
+      }
+    },
+    "position": {
+      "id": "css-position-sticky",
+      "name": "CSS Position Sticky",
+      "status": "baseline",
+      "since": "2020-07",
+      "description": "The sticky position creates a hybrid of relative and fixed positioning.",
+      "properties": [
+        "position"
+      ],
+      "browserSupport": {
+        "chrome": "56",
+        "edge": "16",
+        "firefox": "32",
+        "safari": "13"
+      }
+    },
+    "container-type": {
+      "id": "css-container-queries",
+      "name": "CSS Container Queries",
+      "status": "limited",
+      "since": "2023-02",
+      "description": "Container queries allow you to apply styles based on the size of a container.",
+      "properties": [
+        "container-type",
+        "container-name",
+        "container"
+      ],
+      "browserSupport": {
+        "chrome": "105",
+        "edge": "105",
+        "firefox": "110",
+        "safari": "16"
+      }
+    },
+    "container-name": {
+      "id": "css-container-queries",
+      "name": "CSS Container Queries",
+      "status": "limited",
+      "since": "2023-02",
+      "description": "Container queries allow you to apply styles based on the size of a container.",
+      "properties": [
+        "container-type",
+        "container-name",
+        "container"
+      ],
+      "browserSupport": {
+        "chrome": "105",
+        "edge": "105",
+        "firefox": "110",
+        "safari": "16"
+      }
+    },
+    "container": {
+      "id": "css-container-queries",
+      "name": "CSS Container Queries",
+      "status": "limited",
+      "since": "2023-02",
+      "description": "Container queries allow you to apply styles based on the size of a container.",
+      "properties": [
+        "container-type",
+        "container-name",
+        "container"
+      ],
+      "browserSupport": {
+        "chrome": "105",
+        "edge": "105",
+        "firefox": "110",
+        "safari": "16"
+      }
+    },
+    "backdrop-filter": {
+      "id": "css-backdrop-filter",
+      "name": "CSS Backdrop Filter",
+      "status": "baseline",
+      "since": "2022-03",
+      "description": "Applies graphical effects to the area behind an element.",
+      "properties": [
+        "backdrop-filter"
+      ],
+      "browserSupport": {
+        "chrome": "76",
+        "edge": "79",
+        "firefox": "103",
+        "safari": "9"
+      }
+    },
+    "color": {
+      "id": "css-color-oklch",
+      "name": "CSS OKLCH Colors",
+      "status": "limited",
+      "since": "2023-09",
+      "description": "The oklch() color function represents colors in a perceptually uniform color space.",
+      "properties": [
+        "color"
+      ],
+      "browserSupport": {
+        "chrome": "111",
+        "edge": "111",
+        "firefox": "113",
+        "safari": "16.4"
+      }
+    }
+  },
+  "js": {
+    "fetch": {
+      "id": "fetch-api",
+      "name": "Fetch API",
+      "status": "baseline",
+      "since": "2017-03",
+      "description": "The Fetch API provides a modern interface for fetching resources across the network.",
+      "api": "fetch",
+      "methods": [
+        "fetch",
+        "Response",
+        "Request",
+        "Headers"
+      ],
+      "browserSupport": {
+        "chrome": "42",
+        "edge": "14",
+        "firefox": "39",
+        "safari": "10.1"
+      }
+    },
+    "Response": {
+      "id": "fetch-api",
+      "name": "Fetch API",
+      "status": "baseline",
+      "since": "2017-03",
+      "description": "The Fetch API provides a modern interface for fetching resources across the network.",
+      "api": "fetch",
+      "methods": [
+        "fetch",
+        "Response",
+        "Request",
+        "Headers"
+      ],
+      "browserSupport": {
+        "chrome": "42",
+        "edge": "14",
+        "firefox": "39",
+        "safari": "10.1"
+      }
+    },
+    "Request": {
+      "id": "fetch-api",
+      "name": "Fetch API",
+      "status": "baseline",
+      "since": "2017-03",
+      "description": "The Fetch API provides a modern interface for fetching resources across the network.",
+      "api": "fetch",
+      "methods": [
+        "fetch",
+        "Response",
+        "Request",
+        "Headers"
+      ],
+      "browserSupport": {
+        "chrome": "42",
+        "edge": "14",
+        "firefox": "39",
+        "safari": "10.1"
+      }
+    },
+    "Headers": {
+      "id": "fetch-api",
+      "name": "Fetch API",
+      "status": "baseline",
+      "since": "2017-03",
+      "description": "The Fetch API provides a modern interface for fetching resources across the network.",
+      "api": "fetch",
+      "methods": [
+        "fetch",
+        "Response",
+        "Request",
+        "Headers"
+      ],
+      "browserSupport": {
+        "chrome": "42",
+        "edge": "14",
+        "firefox": "39",
+        "safari": "10.1"
+      }
+    },
+    "Promise": {
+      "id": "promises",
+      "name": "JavaScript Promises",
+      "status": "baseline",
+      "since": "2016-09",
+      "description": "Promises represent the eventual completion or failure of an asynchronous operation.",
+      "api": "Promise",
+      "methods": [
+        "then",
+        "catch",
+        "finally",
+        "all",
+        "race"
+      ],
+      "browserSupport": {
+        "chrome": "32",
+        "edge": "12",
+        "firefox": "29",
+        "safari": "8"
+      }
+    },
+    "then": {
+      "id": "promises",
+      "name": "JavaScript Promises",
+      "status": "baseline",
+      "since": "2016-09",
+      "description": "Promises represent the eventual completion or failure of an asynchronous operation.",
+      "api": "Promise",
+      "methods": [
+        "then",
+        "catch",
+        "finally",
+        "all",
+        "race"
+      ],
+      "browserSupport": {
+        "chrome": "32",
+        "edge": "12",
+        "firefox": "29",
+        "safari": "8"
+      }
+    },
+    "catch": {
+      "id": "promises",
+      "name": "JavaScript Promises",
+      "status": "baseline",
+      "since": "2016-09",
+      "description": "Promises represent the eventual completion or failure of an asynchronous operation.",
+      "api": "Promise",
+      "methods": [
+        "then",
+        "catch",
+        "finally",
+        "all",
+        "race"
+      ],
+      "browserSupport": {
+        "chrome": "32",
+        "edge": "12",
+        "firefox": "29",
+        "safari": "8"
+      }
+    },
+    "finally": {
+      "id": "promises",
+      "name": "JavaScript Promises",
+      "status": "baseline",
+      "since": "2016-09",
+      "description": "Promises represent the eventual completion or failure of an asynchronous operation.",
+      "api": "Promise",
+      "methods": [
+        "then",
+        "catch",
+        "finally",
+        "all",
+        "race"
+      ],
+      "browserSupport": {
+        "chrome": "32",
+        "edge": "12",
+        "firefox": "29",
+        "safari": "8"
+      }
+    },
+    "all": {
+      "id": "promises",
+      "name": "JavaScript Promises",
+      "status": "baseline",
+      "since": "2016-09",
+      "description": "Promises represent the eventual completion or failure of an asynchronous operation.",
+      "api": "Promise",
+      "methods": [
+        "then",
+        "catch",
+        "finally",
+        "all",
+        "race"
+      ],
+      "browserSupport": {
+        "chrome": "32",
+        "edge": "12",
+        "firefox": "29",
+        "safari": "8"
+      }
+    },
+    "race": {
+      "id": "promises",
+      "name": "JavaScript Promises",
+      "status": "baseline",
+      "since": "2016-09",
+      "description": "Promises represent the eventual completion or failure of an asynchronous operation.",
+      "api": "Promise",
+      "methods": [
+        "then",
+        "catch",
+        "finally",
+        "all",
+        "race"
+      ],
+      "browserSupport": {
+        "chrome": "32",
+        "edge": "12",
+        "firefox": "29",
+        "safari": "8"
+      }
+    },
+    "async": {
+      "id": "async-await",
+      "name": "Async/Await",
+      "status": "baseline",
+      "since": "2017-06",
+      "description": "Async functions enable writing promise-based code as if it were synchronous.",
+      "api": "async",
+      "methods": [
+        "async",
+        "await"
+      ],
+      "browserSupport": {
+        "chrome": "55",
+        "edge": "15",
+        "firefox": "52",
+        "safari": "10.1"
+      }
+    },
+    "await": {
+      "id": "async-await",
+      "name": "Async/Await",
+      "status": "baseline",
+      "since": "2017-06",
+      "description": "Async functions enable writing promise-based code as if it were synchronous.",
+      "api": "async",
+      "methods": [
+        "async",
+        "await"
+      ],
+      "browserSupport": {
+        "chrome": "55",
+        "edge": "15",
+        "firefox": "52",
+        "safari": "10.1"
+      }
+    },
+    "IntersectionObserver": {
+      "id": "intersection-observer",
+      "name": "Intersection Observer",
+      "status": "baseline",
+      "since": "2019-09",
+      "description": "Provides a way to asynchronously observe changes in the intersection of a target element.",
+      "api": "IntersectionObserver",
+      "methods": [
+        "observe",
+        "unobserve",
+        "disconnect"
+      ],
+      "browserSupport": {
+        "chrome": "51",
+        "edge": "15",
+        "firefox": "55",
+        "safari": "12.1"
+      }
+    },
+    "observe": {
+      "id": "mutation-observer",
+      "name": "Mutation Observer",
+      "status": "baseline",
+      "since": "2015-07",
+      "description": "Provides the ability to watch for changes being made to the DOM tree.",
+      "api": "MutationObserver",
+      "methods": [
+        "observe",
+        "disconnect",
+        "takeRecords"
+      ],
+      "browserSupport": {
+        "chrome": "26",
+        "edge": "12",
+        "firefox": "14",
+        "safari": "7"
+      }
+    },
+    "unobserve": {
+      "id": "resize-observer",
+      "name": "Resize Observer",
+      "status": "baseline",
+      "since": "2020-07",
+      "description": "Reports changes to the dimensions of an element's content or border box.",
+      "api": "ResizeObserver",
+      "methods": [
+        "observe",
+        "unobserve",
+        "disconnect"
+      ],
+      "browserSupport": {
+        "chrome": "64",
+        "edge": "79",
+        "firefox": "69",
+        "safari": "13.1"
+      }
+    },
+    "disconnect": {
+      "id": "mutation-observer",
+      "name": "Mutation Observer",
+      "status": "baseline",
+      "since": "2015-07",
+      "description": "Provides the ability to watch for changes being made to the DOM tree.",
+      "api": "MutationObserver",
+      "methods": [
+        "observe",
+        "disconnect",
+        "takeRecords"
+      ],
+      "browserSupport": {
+        "chrome": "26",
+        "edge": "12",
+        "firefox": "14",
+        "safari": "7"
+      }
+    },
+    "ResizeObserver": {
+      "id": "resize-observer",
+      "name": "Resize Observer",
+      "status": "baseline",
+      "since": "2020-07",
+      "description": "Reports changes to the dimensions of an element's content or border box.",
+      "api": "ResizeObserver",
+      "methods": [
+        "observe",
+        "unobserve",
+        "disconnect"
+      ],
+      "browserSupport": {
+        "chrome": "64",
+        "edge": "79",
+        "firefox": "69",
+        "safari": "13.1"
+      }
+    },
+    "MutationObserver": {
+      "id": "mutation-observer",
+      "name": "Mutation Observer",
+      "status": "baseline",
+      "since": "2015-07",
+      "description": "Provides the ability to watch for changes being made to the DOM tree.",
+      "api": "MutationObserver",
+      "methods": [
+        "observe",
+        "disconnect",
+        "takeRecords"
+      ],
+      "browserSupport": {
+        "chrome": "26",
+        "edge": "12",
+        "firefox": "14",
+        "safari": "7"
+      }
+    },
+    "takeRecords": {
+      "id": "mutation-observer",
+      "name": "Mutation Observer",
+      "status": "baseline",
+      "since": "2015-07",
+      "description": "Provides the ability to watch for changes being made to the DOM tree.",
+      "api": "MutationObserver",
+      "methods": [
+        "observe",
+        "disconnect",
+        "takeRecords"
+      ],
+      "browserSupport": {
+        "chrome": "26",
+        "edge": "12",
+        "firefox": "14",
+        "safari": "7"
+      }
+    },
+    "localStorage": {
+      "id": "local-storage",
+      "name": "Local Storage",
+      "status": "baseline",
+      "since": "2015-07",
+      "description": "Allows storing key-value pairs in a web browser with no expiration date.",
+      "api": "localStorage",
+      "methods": [
+        "getItem",
+        "setItem",
+        "removeItem",
+        "clear"
+      ],
+      "browserSupport": {
+        "chrome": "4",
+        "edge": "12",
+        "firefox": "3.5",
+        "safari": "4"
+      }
+    },
+    "getItem": {
+      "id": "local-storage",
+      "name": "Local Storage",
+      "status": "baseline",
+      "since": "2015-07",
+      "description": "Allows storing key-value pairs in a web browser with no expiration date.",
+      "api": "localStorage",
+      "methods": [
+        "getItem",
+        "setItem",
+        "removeItem",
+        "clear"
+      ],
+      "browserSupport": {
+        "chrome": "4",
+        "edge": "12",
+        "firefox": "3.5",
+        "safari": "4"
+      }
+    },
+    "setItem": {
+      "id": "local-storage",
+      "name": "Local Storage",
+      "status": "baseline",
+      "since": "2015-07",
+      "description": "Allows storing key-value pairs in a web browser with no expiration date.",
+      "api": "localStorage",
+      "methods": [
+        "getItem",
+        "setItem",
+        "removeItem",
+        "clear"
+      ],
+      "browserSupport": {
+        "chrome": "4",
+        "edge": "12",
+        "firefox": "3.5",
+        "safari": "4"
+      }
+    },
+    "removeItem": {
+      "id": "local-storage",
+      "name": "Local Storage",
+      "status": "baseline",
+      "since": "2015-07",
+      "description": "Allows storing key-value pairs in a web browser with no expiration date.",
+      "api": "localStorage",
+      "methods": [
+        "getItem",
+        "setItem",
+        "removeItem",
+        "clear"
+      ],
+      "browserSupport": {
+        "chrome": "4",
+        "edge": "12",
+        "firefox": "3.5",
+        "safari": "4"
+      }
+    },
+    "clear": {
+      "id": "local-storage",
+      "name": "Local Storage",
+      "status": "baseline",
+      "since": "2015-07",
+      "description": "Allows storing key-value pairs in a web browser with no expiration date.",
+      "api": "localStorage",
+      "methods": [
+        "getItem",
+        "setItem",
+        "removeItem",
+        "clear"
+      ],
+      "browserSupport": {
+        "chrome": "4",
+        "edge": "12",
+        "firefox": "3.5",
+        "safari": "4"
+      }
+    },
+    "crypto": {
+      "id": "web-crypto",
+      "name": "Web Crypto API",
+      "status": "baseline",
+      "since": "2017-09",
+      "description": "Provides cryptographic operations in web applications.",
+      "api": "crypto",
+      "methods": [
+        "subtle",
+        "getRandomValues"
+      ],
+      "browserSupport": {
+        "chrome": "37",
+        "edge": "12",
+        "firefox": "34",
+        "safari": "11"
+      }
+    },
+    "subtle": {
+      "id": "web-crypto",
+      "name": "Web Crypto API",
+      "status": "baseline",
+      "since": "2017-09",
+      "description": "Provides cryptographic operations in web applications.",
+      "api": "crypto",
+      "methods": [
+        "subtle",
+        "getRandomValues"
+      ],
+      "browserSupport": {
+        "chrome": "37",
+        "edge": "12",
+        "firefox": "34",
+        "safari": "11"
+      }
+    },
+    "getRandomValues": {
+      "id": "web-crypto",
+      "name": "Web Crypto API",
+      "status": "baseline",
+      "since": "2017-09",
+      "description": "Provides cryptographic operations in web applications.",
+      "api": "crypto",
+      "methods": [
+        "subtle",
+        "getRandomValues"
+      ],
+      "browserSupport": {
+        "chrome": "37",
+        "edge": "12",
+        "firefox": "34",
+        "safari": "11"
+      }
+    },
+    "BroadcastChannel": {
+      "id": "broadcast-channel",
+      "name": "Broadcast Channel",
+      "status": "baseline",
+      "since": "2022-03",
+      "description": "Allows communication between browsing contexts (windows, tabs, iframes).",
+      "api": "BroadcastChannel",
+      "methods": [
+        "postMessage",
+        "close"
+      ],
+      "browserSupport": {
+        "chrome": "54",
+        "edge": "79",
+        "firefox": "38",
+        "safari": "15.4"
+      }
+    },
+    "postMessage": {
+      "id": "broadcast-channel",
+      "name": "Broadcast Channel",
+      "status": "baseline",
+      "since": "2022-03",
+      "description": "Allows communication between browsing contexts (windows, tabs, iframes).",
+      "api": "BroadcastChannel",
+      "methods": [
+        "postMessage",
+        "close"
+      ],
+      "browserSupport": {
+        "chrome": "54",
+        "edge": "79",
+        "firefox": "38",
+        "safari": "15.4"
+      }
+    },
+    "close": {
+      "id": "broadcast-channel",
+      "name": "Broadcast Channel",
+      "status": "baseline",
+      "since": "2022-03",
+      "description": "Allows communication between browsing contexts (windows, tabs, iframes).",
+      "api": "BroadcastChannel",
+      "methods": [
+        "postMessage",
+        "close"
+      ],
+      "browserSupport": {
+        "chrome": "54",
+        "edge": "79",
+        "firefox": "38",
+        "safari": "15.4"
+      }
+    },
+    "navigator.share": {
+      "id": "web-share-api",
+      "name": "Web Share API",
+      "status": "limited",
+      "since": "2023-03",
+      "description": "Enables sharing of text, URLs, and files to user-selected share targets.",
+      "api": "navigator.share",
+      "methods": [
+        "share",
+        "canShare"
+      ],
+      "browserSupport": {
+        "chrome": "89",
+        "edge": "93",
+        "firefox": "71",
+        "safari": "12.1"
+      }
+    },
+    "share": {
+      "id": "web-share-api",
+      "name": "Web Share API",
+      "status": "limited",
+      "since": "2023-03",
+      "description": "Enables sharing of text, URLs, and files to user-selected share targets.",
+      "api": "navigator.share",
+      "methods": [
+        "share",
+        "canShare"
+      ],
+      "browserSupport": {
+        "chrome": "89",
+        "edge": "93",
+        "firefox": "71",
+        "safari": "12.1"
+      }
+    },
+    "canShare": {
+      "id": "web-share-api",
+      "name": "Web Share API",
+      "status": "limited",
+      "since": "2023-03",
+      "description": "Enables sharing of text, URLs, and files to user-selected share targets.",
+      "api": "navigator.share",
+      "methods": [
+        "share",
+        "canShare"
+      ],
+      "browserSupport": {
+        "chrome": "89",
+        "edge": "93",
+        "firefox": "71",
+        "safari": "12.1"
+      }
+    },
+    "document.startViewTransition": {
+      "id": "view-transitions",
+      "name": "View Transitions API",
+      "status": "limited",
+      "since": "2024-01",
+      "description": "Provides a mechanism for easily creating animated transitions between different DOM states.",
+      "api": "document.startViewTransition",
+      "methods": [
+        "startViewTransition"
+      ],
+      "browserSupport": {
+        "chrome": "111",
+        "edge": "111",
+        "firefox": "No",
+        "safari": "18"
+      }
+    },
+    "startViewTransition": {
+      "id": "view-transitions",
+      "name": "View Transitions API",
+      "status": "limited",
+      "since": "2024-01",
+      "description": "Provides a mechanism for easily creating animated transitions between different DOM states.",
+      "api": "document.startViewTransition",
+      "methods": [
+        "startViewTransition"
+      ],
+      "browserSupport": {
+        "chrome": "111",
+        "edge": "111",
+        "firefox": "No",
+        "safari": "18"
+      }
+    }
+  }
+}

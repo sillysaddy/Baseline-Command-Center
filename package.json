@@ -1,0 +1,100 @@
+{
+  "name": "baseline-command-center",
+  "displayName": "Baseline Command Center",
+  "description": "Real-time Baseline compatibility awareness for web developers",
+  "publisher": "SillySaddy",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Linters",
+    "Programming Languages"
+  ],
+  "activationEvents": [
+    "onLanguage:css",
+    "onLanguage:scss",
+    "onLanguage:less",
+    "onLanguage:javascript",
+    "onLanguage:typescript",
+    "onLanguage:javascriptreact",
+    "onLanguage:typescriptreact"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "baseline.checkCompatibility",
+        "title": "Baseline: Check Compatibility"
+      },
+      {
+        "command": "baseline.refreshData",
+        "title": "Baseline: Refresh Data"
+      },
+      {
+        "command": "baseline.showDashboard",
+        "title": "Baseline: Show Dashboard"
+      }
+    ],
+    "viewsContainers": {
+      "activitybar": [
+        {
+          "id": "baseline-explorer",
+          "title": "Baseline",
+          "icon": "$(check-all)"
+        }
+      ]
+    },
+    "views": {
+      "baseline-explorer": [
+        {
+          "type": "webview",
+          "id": "baselineDashboard",
+          "name": "Dashboard"
+        }
+      ]
+    },
+    "configuration": {
+      "title": "Baseline Command Center",
+      "properties": {
+        "baseline.enableInlineBadges": {
+          "type": "boolean",
+          "default": true,
+          "description": "Show inline Baseline compatibility badges"
+        },
+        "baseline.highlightNonBaseline": {
+          "type": "boolean",
+          "default": true,
+          "description": "Highlight non-Baseline features"
+        },
+        "baseline.autoUpdate": {
+          "type": "boolean",
+          "default": true,
+          "description": "Automatically update Baseline data weekly"
+        }
+      }
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile && npm run lint",
+    "lint": "eslint src --ext ts",
+    "test": "node ./out/test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^18.19.129",
+    "@types/vscode": "^1.104.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.40.0",
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "postcss": "^8.5.6",
+    "postcss-selector-parser": "^6.1.2",
+    "web-features": "^0.8.6"
+  }
+}

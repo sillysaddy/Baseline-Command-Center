@@ -1,0 +1,12 @@
+{
+  "threshold": 80,
+  "failOnNonBaseline": false,
+  "ignore": [
+    "node_modules/**",
+    "dist/**",
+    "build/**"
+  ],
+  "include": [
+    "src/**/*.{css,scss,less,js,ts,jsx,tsx}"
+  ]
+}
